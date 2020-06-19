@@ -10154,3 +10154,684 @@
 10:46:27,304  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
 10:46:27,306  INFO UserClient,main:26 - Please enter your authentication details:-
 10:46:27,306  INFO UserClient,main:27 - Username: 
+13:55:28,616  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+13:55:28,618  INFO UserClient,main:26 - Please enter your authentication details:-
+13:55:28,618  INFO UserClient,main:27 - Username: 
+13:55:34,474  INFO UserClient,main:29 - Password: 
+13:55:42,056  INFO UserClient,main:45 - Logged in as student at FRIDAY, 13:55
+13:55:42,059  INFO StudentClient,main:41 - 1: View Catalog
+13:55:42,059  INFO StudentClient,main:42 - 2: Add a Course
+13:55:42,059  INFO StudentClient,main:43 - 3: Drop a Course
+13:55:42,060  INFO StudentClient,main:44 - 4: View courses added for Registration
+13:55:42,060  INFO StudentClient,main:45 - 5: Proceed to payment
+13:55:42,060  INFO StudentClient,main:46 - 6: View Report Card
+13:55:42,060  INFO StudentClient,main:47 - 7: Logout
+13:55:42,060  INFO StudentClient,main:48 - 8: Exit
+13:55:46,582  INFO StudentClient,main:163 -  Biology : Not available
+13:55:46,583  INFO StudentClient,main:163 -  Physics : Not available
+13:55:46,584  INFO StudentClient,main:163 - Chemistry : Not available
+13:55:46,585  INFO StudentClient,main:163 -  Physics : Not available
+13:55:46,585  INFO StudentClient,main:41 - 1: View Catalog
+13:55:46,586  INFO StudentClient,main:42 - 2: Add a Course
+13:55:46,586  INFO StudentClient,main:43 - 3: Drop a Course
+13:55:46,586  INFO StudentClient,main:44 - 4: View courses added for Registration
+13:55:46,586  INFO StudentClient,main:45 - 5: Proceed to payment
+13:55:46,586  INFO StudentClient,main:46 - 6: View Report Card
+13:55:46,587  INFO StudentClient,main:47 - 7: Logout
+13:55:46,587  INFO StudentClient,main:48 - 8: Exit
+13:56:32,023  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+13:56:32,025  INFO UserClient,main:26 - Please enter your authentication details:-
+13:56:32,025  INFO UserClient,main:27 - Username: 
+14:53:19,202  INFO UserClient,main:29 - Password: 
+14:53:20,922  INFO UserClient,main:45 - Logged in as student at FRIDAY, 14:53
+14:53:21,052  INFO StudentClient,main:41 - 1: View Catalog
+14:53:21,053  INFO StudentClient,main:42 - 2: Add a Course
+14:53:21,053  INFO StudentClient,main:43 - 3: Drop a Course
+14:53:21,053  INFO StudentClient,main:44 - 4: View courses added for Registration
+14:53:21,054  INFO StudentClient,main:45 - 5: Proceed to payment
+14:53:21,054  INFO StudentClient,main:46 - 6: View Report Card
+14:53:21,054  INFO StudentClient,main:47 - 7: Logout
+14:53:21,054  INFO StudentClient,main:48 - 8: Exit
+14:53:24,744  INFO StudentClient,main:119 - Id: 5   Name: History          Registration Status: successful   DateOfAddition: 2020-06-18 19:27:02.0  Mode: debit card
+14:53:24,745  INFO StudentClient,main:119 - Id: 8   Name: EVS              Registration Status: successful   DateOfAddition: 2020-06-18 19:26:20.0  Mode: debit card
+14:53:24,747  INFO StudentClient,main:119 - Id: 9   Name: JAVA             Registration Status: successful   DateOfAddition: 2020-06-18 19:26:18.0  Mode: debit card
+14:53:24,748  INFO StudentClient,main:119 - Id:105   Name: DS               Registration Status: successful   DateOfAddition: 2020-06-18 19:26:14.0  Mode: debit card
+14:53:24,748  INFO StudentClient,main:41 - 1: View Catalog
+14:53:24,748  INFO StudentClient,main:42 - 2: Add a Course
+14:53:24,749  INFO StudentClient,main:43 - 3: Drop a Course
+14:53:24,749  INFO StudentClient,main:44 - 4: View courses added for Registration
+14:53:24,749  INFO StudentClient,main:45 - 5: Proceed to payment
+14:53:24,750  INFO StudentClient,main:46 - 6: View Report Card
+14:53:24,750  INFO StudentClient,main:47 - 7: Logout
+14:53:24,750  INFO StudentClient,main:48 - 8: Exit
+14:53:43,945  INFO StudentClient,main:70 - Logged out at FRIDAY, 14:53
+14:53:43,946  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+14:53:43,946  INFO UserClient,main:26 - Please enter your authentication details:-
+14:53:43,946  INFO UserClient,main:27 - Username: 
+14:53:45,338  INFO UserClient,main:29 - Password: 
+14:53:46,902  INFO UserClient,main:45 - Logged in as student at FRIDAY, 14:53
+14:53:46,903  INFO StudentClient,main:41 - 1: View Catalog
+14:53:46,903  INFO StudentClient,main:42 - 2: Add a Course
+14:53:46,903  INFO StudentClient,main:43 - 3: Drop a Course
+14:53:46,903  INFO StudentClient,main:44 - 4: View courses added for Registration
+14:53:46,903  INFO StudentClient,main:45 - 5: Proceed to payment
+14:53:46,903  INFO StudentClient,main:46 - 6: View Report Card
+14:53:46,903  INFO StudentClient,main:47 - 7: Logout
+14:53:46,904  INFO StudentClient,main:48 - 8: Exit
+14:53:49,809  INFO StudentClient,main:119 - Id: 4   Name: Physics          Registration Status: successful   DateOfAddition: 2020-06-16 10:06:18.0  Mode: credit card
+14:53:49,810  INFO StudentClient,main:119 - Id: 5   Name: History          Registration Status: successful   DateOfAddition: 2020-06-16 10:06:23.0  Mode: credit card
+14:53:49,812  INFO StudentClient,main:119 - Id: 6   Name: Data Structures   Registration Status: successful   DateOfAddition: 2020-06-16 10:05:56.0  Mode: credit card
+14:53:49,813  INFO StudentClient,main:119 - Id: 8   Name: EVS              Registration Status: successful   DateOfAddition: 2020-06-16 10:05:59.0  Mode: credit card
+14:53:49,813  INFO StudentClient,main:41 - 1: View Catalog
+14:53:49,813  INFO StudentClient,main:42 - 2: Add a Course
+14:53:49,813  INFO StudentClient,main:43 - 3: Drop a Course
+14:53:49,813  INFO StudentClient,main:44 - 4: View courses added for Registration
+14:53:49,814  INFO StudentClient,main:45 - 5: Proceed to payment
+14:53:49,814  INFO StudentClient,main:46 - 6: View Report Card
+14:53:49,814  INFO StudentClient,main:47 - 7: Logout
+14:53:49,814  INFO StudentClient,main:48 - 8: Exit
+14:54:06,040  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+14:54:06,042  INFO UserClient,main:26 - Please enter your authentication details:-
+14:54:06,043  INFO UserClient,main:27 - Username: 
+14:54:09,092  INFO UserClient,main:29 - Password: 
+14:54:14,238  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+14:54:14,240  INFO UserClient,main:26 - Please enter your authentication details:-
+14:54:14,240  INFO UserClient,main:27 - Username: 
+14:54:18,773  INFO UserClient,main:29 - Password: 
+14:54:21,028  INFO UserClient,main:39 - Logged in as admin at FRIDAY, 14:54
+14:54:21,068  INFO UserClient,main:32 - 1: View Catalog
+14:54:21,068  INFO UserClient,main:33 - 2: Add a user
+14:54:21,068  INFO UserClient,main:34 - 3: Remove a user
+14:54:21,069  INFO UserClient,main:35 - 4: Add a course in the catalog.
+14:54:21,069  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+14:54:21,069  INFO UserClient,main:37 - 6: View users
+14:54:21,069  INFO UserClient,main:38 - 7: View Details of a specific user
+14:54:21,069  INFO UserClient,main:39 - 8: Logout
+14:54:21,070  INFO UserClient,main:40 - 9: Exit
+14:58:48,984  INFO UserClient,main:66 - Logged out at FRIDAY, 14:58
+14:58:48,985  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+14:58:48,985  INFO UserClient,main:26 - Please enter your authentication details:-
+14:58:48,985  INFO UserClient,main:27 - Username: 
+14:58:50,226  INFO UserClient,main:29 - Password: 
+14:58:51,626  INFO UserClient,main:42 - Logged in as professor at FRIDAY, 14:58
+14:58:51,654  INFO UserClient,main:32 - 1: View Catalog
+14:58:51,654  INFO UserClient,main:33 - 2: View enrolled Courses
+14:58:51,655  INFO UserClient,main:34 - 3: Enroll to teach for a Course
+14:58:51,655  INFO UserClient,main:35 - 4: View list of enrolled students
+14:58:51,655  INFO UserClient,main:36 - 5: Submit grades of students
+14:58:51,655  INFO UserClient,main:37 - 6: Logout
+14:58:51,655  INFO UserClient,main:38 - 7: Exit
+14:59:01,654  INFO UserClient,main:95 - Here is a list of students enrolled along with your course offerings
+14:59:01,658  INFO UserClient,main:97 - --------------1 : Biology--------------
+14:59:01,660  INFO AdminDao,main:68 - 1 : Kunal Sachdeva
+14:59:01,662  INFO UserClient,main:97 - --------------4 : Physics--------------
+14:59:01,663  INFO AdminDao,main:68 - 1 : Kunal Sachdeva
+14:59:01,663  INFO AdminDao,main:68 - 17 : Ram Sharma
+14:59:01,664  INFO UserClient,main:97 - --------------6 : Data Structures--------------
+14:59:01,665  INFO AdminDao,main:68 - 17 : Ram Sharma
+14:59:01,666  INFO UserClient,main:32 - 1: View Catalog
+14:59:01,666  INFO UserClient,main:33 - 2: View enrolled Courses
+14:59:01,666  INFO UserClient,main:34 - 3: Enroll to teach for a Course
+14:59:01,667  INFO UserClient,main:35 - 4: View list of enrolled students
+14:59:01,667  INFO UserClient,main:36 - 5: Submit grades of students
+14:59:01,667  INFO UserClient,main:37 - 6: Logout
+14:59:01,667  INFO UserClient,main:38 - 7: Exit
+14:59:18,175  INFO UserClient,main:57 - Logged out at FRIDAY, 14:59
+14:59:18,175  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+14:59:18,175  INFO UserClient,main:26 - Please enter your authentication details:-
+14:59:18,175  INFO UserClient,main:27 - Username: 
+14:59:20,923  INFO UserClient,main:29 - Password: 
+14:59:25,444  INFO UserClient,main:39 - Logged in as admin at FRIDAY, 14:59
+14:59:25,445  INFO UserClient,main:32 - 1: View Catalog
+14:59:25,445  INFO UserClient,main:33 - 2: Add a user
+14:59:25,445  INFO UserClient,main:34 - 3: Remove a user
+14:59:25,445  INFO UserClient,main:35 - 4: Add a course in the catalog.
+14:59:25,445  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+14:59:25,445  INFO UserClient,main:37 - 6: View users
+14:59:25,445  INFO UserClient,main:38 - 7: View Details of a specific user
+14:59:25,446  INFO UserClient,main:39 - 8: Logout
+14:59:25,446  INFO UserClient,main:40 - 9: Exit
+14:59:27,841  INFO UserClient,main:119 - Enter name of the user
+14:59:32,124  INFO UserClient,main:121 - Set up a password for the user
+14:59:34,220  INFO UserClient,main:123 - Enter the role of the user
+14:59:37,684  INFO UserClient,main:125 - Enter the gender of the user(m for male, f for female)
+14:59:39,784  INFO UserClient,main:37 - User added!
+14:59:39,785  INFO UserClient,main:130 - Enter the name of the student
+14:59:41,910  INFO UserClient,main:132 - Enter the phone number of the student
+14:59:44,880  INFO UserClient,main:134 - Enter the email of the student
+14:59:48,399  INFO UserClient,main:136 - Is any scholarship applicable?(0 for no, 1 for yes)
+14:59:50,210  INFO UserClient,main:118 - User added!
+14:59:50,210  INFO UserClient,main:32 - 1: View Catalog
+14:59:50,211  INFO UserClient,main:33 - 2: Add a user
+14:59:50,211  INFO UserClient,main:34 - 3: Remove a user
+14:59:50,211  INFO UserClient,main:35 - 4: Add a course in the catalog.
+14:59:50,211  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+14:59:50,211  INFO UserClient,main:37 - 6: View users
+14:59:50,211  INFO UserClient,main:38 - 7: View Details of a specific user
+14:59:50,211  INFO UserClient,main:39 - 8: Logout
+14:59:50,211  INFO UserClient,main:40 - 9: Exit
+14:59:53,680  INFO UserClient,main:76 - Here is the list of users registered with us
+14:59:53,689  INFO UserClient,main:99 - All users shown!
+14:59:53,691  INFO UserClient,main:80 - Id:  1, Name:       Mr.kunal, Role:  student
+14:59:53,691  INFO UserClient,main:80 - Id:  3, Name:      Ms.monica, Role: professor
+14:59:53,691  INFO UserClient,main:80 - Id:  4, Name:        Mr.amit, Role: professor
+14:59:53,692  INFO UserClient,main:80 - Id:  5, Name:   Mr.superuser, Role:    admin
+14:59:53,692  INFO UserClient,main:80 - Id: 14, Name:        Mr.test, Role:  student
+14:59:53,692  INFO UserClient,main:80 - Id: 17, Name:         Mr.ram, Role:  student
+14:59:53,692  INFO UserClient,main:80 - Id: 104, Name:        Mr.Shiv, Role:  student
+14:59:53,692  INFO UserClient,main:80 - Id: 105, Name:        Ms.Ritu, Role: professor
+14:59:53,693  INFO UserClient,main:80 - Id: 106, Name:        Mr.raju, Role:  student
+14:59:53,693  INFO UserClient,main:32 - 1: View Catalog
+14:59:53,693  INFO UserClient,main:33 - 2: Add a user
+14:59:53,693  INFO UserClient,main:34 - 3: Remove a user
+14:59:53,693  INFO UserClient,main:35 - 4: Add a course in the catalog.
+14:59:53,693  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+14:59:53,694  INFO UserClient,main:37 - 6: View users
+14:59:53,694  INFO UserClient,main:38 - 7: View Details of a specific user
+14:59:53,694  INFO UserClient,main:39 - 8: Logout
+14:59:53,694  INFO UserClient,main:40 - 9: Exit
+15:00:01,323  INFO UserClient,main:103 - Enter id of the user you want to inspect
+15:00:02,705  INFO UserClient,main:154 - Here are the details of the requested student.
+15:00:02,715  INFO Student,main:26 - Name:         Raju  Phone: 92018397210  Email: hsjgf@test.com  Scholarship: 1
+15:00:02,715  INFO UserClient,main:32 - 1: View Catalog
+15:00:02,716  INFO UserClient,main:33 - 2: Add a user
+15:00:02,716  INFO UserClient,main:34 - 3: Remove a user
+15:00:02,716  INFO UserClient,main:35 - 4: Add a course in the catalog.
+15:00:02,716  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+15:00:02,716  INFO UserClient,main:37 - 6: View users
+15:00:02,716  INFO UserClient,main:38 - 7: View Details of a specific user
+15:00:02,716  INFO UserClient,main:39 - 8: Logout
+15:00:02,717  INFO UserClient,main:40 - 9: Exit
+15:00:07,383  INFO UserClient,main:66 - Logged out at FRIDAY, 15:0
+15:00:07,384  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+15:00:07,384  INFO UserClient,main:26 - Please enter your authentication details:-
+15:00:07,384  INFO UserClient,main:27 - Username: 
+15:00:10,901  INFO UserClient,main:29 - Password: 
+15:00:12,445 ERROR UserException,main:12 - No such user found, please try again.
+15:00:12,446  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+15:00:12,446  INFO UserClient,main:26 - Please enter your authentication details:-
+15:00:12,446  INFO UserClient,main:27 - Username: 
+15:00:16,866  INFO UserClient,main:29 - Password: 
+15:00:17,777  INFO UserClient,main:45 - Logged in as student at FRIDAY, 15:0
+15:00:17,782  INFO StudentClient,main:41 - 1: View Catalog
+15:00:17,783  INFO StudentClient,main:42 - 2: Add a Course
+15:00:17,783  INFO StudentClient,main:43 - 3: Drop a Course
+15:00:17,783  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:00:17,783  INFO StudentClient,main:45 - 5: Proceed to payment
+15:00:17,784  INFO StudentClient,main:46 - 6: View Report Card
+15:00:17,784  INFO StudentClient,main:47 - 7: Logout
+15:00:17,784  INFO StudentClient,main:48 - 8: Exit
+15:00:22,099  INFO StudentClient,main:41 - 1: View Catalog
+15:00:22,099  INFO StudentClient,main:42 - 2: Add a Course
+15:00:22,099  INFO StudentClient,main:43 - 3: Drop a Course
+15:00:22,099  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:00:22,099  INFO StudentClient,main:45 - 5: Proceed to payment
+15:00:22,099  INFO StudentClient,main:46 - 6: View Report Card
+15:00:22,099  INFO StudentClient,main:47 - 7: Logout
+15:00:22,100  INFO StudentClient,main:48 - 8: Exit
+15:00:25,869  INFO StudentClient,main:87 - Enter the id of the course you want to add.
+15:00:26,819  INFO RegistrationDao,main:54 - Course added!
+15:00:26,820  INFO StudentClient,main:41 - 1: View Catalog
+15:00:26,820  INFO StudentClient,main:42 - 2: Add a Course
+15:00:26,820  INFO StudentClient,main:43 - 3: Drop a Course
+15:00:26,820  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:00:26,821  INFO StudentClient,main:45 - 5: Proceed to payment
+15:00:26,821  INFO StudentClient,main:46 - 6: View Report Card
+15:00:26,821  INFO StudentClient,main:47 - 7: Logout
+15:00:26,821  INFO StudentClient,main:48 - 8: Exit
+15:00:31,235  INFO StudentClient,main:87 - Enter the id of the course you want to add.
+15:00:32,042  INFO RegistrationDao,main:54 - Course added!
+15:00:32,042  INFO StudentClient,main:41 - 1: View Catalog
+15:00:32,042  INFO StudentClient,main:42 - 2: Add a Course
+15:00:32,042  INFO StudentClient,main:43 - 3: Drop a Course
+15:00:32,042  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:00:32,042  INFO StudentClient,main:45 - 5: Proceed to payment
+15:00:32,042  INFO StudentClient,main:46 - 6: View Report Card
+15:00:32,043  INFO StudentClient,main:47 - 7: Logout
+15:00:32,043  INFO StudentClient,main:48 - 8: Exit
+15:00:32,513  INFO StudentClient,main:87 - Enter the id of the course you want to add.
+15:00:33,443  INFO RegistrationDao,main:54 - Course added!
+15:00:33,443  INFO StudentClient,main:41 - 1: View Catalog
+15:00:33,443  INFO StudentClient,main:42 - 2: Add a Course
+15:00:33,443  INFO StudentClient,main:43 - 3: Drop a Course
+15:00:33,443  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:00:33,444  INFO StudentClient,main:45 - 5: Proceed to payment
+15:00:33,444  INFO StudentClient,main:46 - 6: View Report Card
+15:00:33,444  INFO StudentClient,main:47 - 7: Logout
+15:00:33,444  INFO StudentClient,main:48 - 8: Exit
+15:00:34,775  INFO StudentClient,main:87 - Enter the id of the course you want to add.
+15:00:35,754  INFO RegistrationDao,main:54 - Course added!
+15:00:35,754  INFO StudentClient,main:41 - 1: View Catalog
+15:00:35,754  INFO StudentClient,main:42 - 2: Add a Course
+15:00:35,754  INFO StudentClient,main:43 - 3: Drop a Course
+15:00:35,755  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:00:35,755  INFO StudentClient,main:45 - 5: Proceed to payment
+15:00:35,755  INFO StudentClient,main:46 - 6: View Report Card
+15:00:35,755  INFO StudentClient,main:47 - 7: Logout
+15:00:35,755  INFO StudentClient,main:48 - 8: Exit
+15:00:36,749  INFO StudentClient,main:119 - Id: 1   Name: Biology          Registration Status:    pending   DateOfAddition: 2020-06-19 15:00:27.0  Mode: Not paid
+15:00:36,750  INFO StudentClient,main:119 - Id: 2   Name: Physics          Registration Status:    pending   DateOfAddition: 2020-06-19 15:00:32.0  Mode: Not paid
+15:00:36,751  INFO StudentClient,main:119 - Id: 3   Name: Chemistry        Registration Status:    pending   DateOfAddition: 2020-06-19 15:00:33.0  Mode: Not paid
+15:00:36,752  INFO StudentClient,main:119 - Id: 4   Name: Physics          Registration Status:    pending   DateOfAddition: 2020-06-19 15:00:36.0  Mode: Not paid
+15:00:36,752  INFO StudentClient,main:41 - 1: View Catalog
+15:00:36,752  INFO StudentClient,main:42 - 2: Add a Course
+15:00:36,752  INFO StudentClient,main:43 - 3: Drop a Course
+15:00:36,752  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:00:36,752  INFO StudentClient,main:45 - 5: Proceed to payment
+15:00:36,753  INFO StudentClient,main:46 - 6: View Report Card
+15:00:36,753  INFO StudentClient,main:47 - 7: Logout
+15:00:36,753  INFO StudentClient,main:48 - 8: Exit
+15:00:39,625  INFO StudentClient,main:139 - Total payment to be made: 280
+15:00:39,625  INFO StudentClient,main:140 -   Id : Mode of payment
+15:00:39,626  INFO RegistrationDao,main:195 - 1 : debit card
+15:00:39,626  INFO RegistrationDao,main:195 - 2 : credit card
+15:00:39,626  INFO RegistrationDao,main:195 - 3 : cash
+15:00:39,626  INFO StudentClient,main:142 - Enter the mode id
+15:00:48,543  INFO StudentClient,main:41 - 1: View Catalog
+15:00:48,544  INFO StudentClient,main:42 - 2: Add a Course
+15:00:48,544  INFO StudentClient,main:43 - 3: Drop a Course
+15:00:48,544  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:00:48,544  INFO StudentClient,main:45 - 5: Proceed to payment
+15:00:48,544  INFO StudentClient,main:46 - 6: View Report Card
+15:00:48,544  INFO StudentClient,main:47 - 7: Logout
+15:00:48,545  INFO StudentClient,main:48 - 8: Exit
+15:00:52,647  INFO StudentClient,main:163 -  Biology : Not available
+15:00:52,649  INFO StudentClient,main:163 -  Physics : Not available
+15:00:52,649  INFO StudentClient,main:163 - Chemistry : Not available
+15:00:52,650  INFO StudentClient,main:163 -  Physics : Not available
+15:00:52,650  INFO StudentClient,main:41 - 1: View Catalog
+15:00:52,651  INFO StudentClient,main:42 - 2: Add a Course
+15:00:52,651  INFO StudentClient,main:43 - 3: Drop a Course
+15:00:52,651  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:00:52,651  INFO StudentClient,main:45 - 5: Proceed to payment
+15:00:52,651  INFO StudentClient,main:46 - 6: View Report Card
+15:00:52,651  INFO StudentClient,main:47 - 7: Logout
+15:00:52,652  INFO StudentClient,main:48 - 8: Exit
+15:00:59,267  INFO StudentClient,main:70 - Logged out at FRIDAY, 15:0
+15:00:59,267  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+15:00:59,268  INFO UserClient,main:26 - Please enter your authentication details:-
+15:00:59,268  INFO UserClient,main:27 - Username: 
+15:01:02,312  INFO UserClient,main:29 - Password: 
+15:01:04,266  INFO UserClient,main:42 - Logged in as professor at FRIDAY, 15:1
+15:01:04,266  INFO UserClient,main:32 - 1: View Catalog
+15:01:04,266  INFO UserClient,main:33 - 2: View enrolled Courses
+15:01:04,266  INFO UserClient,main:34 - 3: Enroll to teach for a Course
+15:01:04,266  INFO UserClient,main:35 - 4: View list of enrolled students
+15:01:04,266  INFO UserClient,main:36 - 5: Submit grades of students
+15:01:04,266  INFO UserClient,main:37 - 6: Logout
+15:01:04,266  INFO UserClient,main:38 - 7: Exit
+15:01:08,480  INFO UserClient,main:95 - Here is a list of students enrolled along with your course offerings
+15:01:08,481  INFO UserClient,main:97 - --------------1 : Biology--------------
+15:01:08,482  INFO AdminDao,main:68 - 1 : Kunal Sachdeva
+15:01:08,483  INFO AdminDao,main:68 - 106 : Raju
+15:01:08,484  INFO UserClient,main:97 - --------------4 : Physics--------------
+15:01:08,485  INFO AdminDao,main:68 - 1 : Kunal Sachdeva
+15:01:08,486  INFO AdminDao,main:68 - 17 : Ram Sharma
+15:01:08,486  INFO AdminDao,main:68 - 106 : Raju
+15:01:08,487  INFO UserClient,main:97 - --------------6 : Data Structures--------------
+15:01:08,488  INFO AdminDao,main:68 - 17 : Ram Sharma
+15:01:08,489  INFO ICatalogOperations,main:31 - Enter the course id
+15:01:27,903  INFO ICatalogOperations,main:40 - Enter the student id
+15:01:28,910  INFO ICatalogOperations,main:45 - Enter the grade 
+15:01:31,406  INFO ICatalogOperations,main:49 - Result Updated
+15:01:31,406  INFO UserClient,main:32 - 1: View Catalog
+15:01:31,406  INFO UserClient,main:33 - 2: View enrolled Courses
+15:01:31,406  INFO UserClient,main:34 - 3: Enroll to teach for a Course
+15:01:31,406  INFO UserClient,main:35 - 4: View list of enrolled students
+15:01:31,406  INFO UserClient,main:36 - 5: Submit grades of students
+15:01:31,406  INFO UserClient,main:37 - 6: Logout
+15:01:31,406  INFO UserClient,main:38 - 7: Exit
+15:01:37,204  INFO UserClient,main:57 - Logged out at FRIDAY, 15:1
+15:01:37,204  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+15:01:37,205  INFO UserClient,main:26 - Please enter your authentication details:-
+15:01:37,210  INFO UserClient,main:27 - Username: 
+15:01:39,993  INFO UserClient,main:29 - Password: 
+15:01:40,898  INFO UserClient,main:45 - Logged in as student at FRIDAY, 15:1
+15:01:40,899  INFO StudentClient,main:41 - 1: View Catalog
+15:01:40,899  INFO StudentClient,main:42 - 2: Add a Course
+15:01:40,899  INFO StudentClient,main:43 - 3: Drop a Course
+15:01:40,899  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:01:40,899  INFO StudentClient,main:45 - 5: Proceed to payment
+15:01:40,899  INFO StudentClient,main:46 - 6: View Report Card
+15:01:40,899  INFO StudentClient,main:47 - 7: Logout
+15:01:40,900  INFO StudentClient,main:48 - 8: Exit
+15:01:44,540  INFO StudentClient,main:163 -  Biology : Not available
+15:01:44,542  INFO StudentClient,main:163 -  Physics : Not available
+15:01:44,543  INFO StudentClient,main:163 - Chemistry : Not available
+15:01:44,544  INFO StudentClient,main:163 -  Physics : C
+15:01:44,544  INFO StudentClient,main:41 - 1: View Catalog
+15:01:44,545  INFO StudentClient,main:42 - 2: Add a Course
+15:01:44,545  INFO StudentClient,main:43 - 3: Drop a Course
+15:01:44,545  INFO StudentClient,main:44 - 4: View courses added for Registration
+15:01:44,545  INFO StudentClient,main:45 - 5: Proceed to payment
+15:01:44,545  INFO StudentClient,main:46 - 6: View Report Card
+15:01:44,545  INFO StudentClient,main:47 - 7: Logout
+15:01:44,545  INFO StudentClient,main:48 - 8: Exit
+15:01:48,649  INFO StudentClient,main:70 - Logged out at FRIDAY, 15:1
+15:01:48,649  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+15:01:48,650  INFO UserClient,main:26 - Please enter your authentication details:-
+15:01:48,650  INFO UserClient,main:27 - Username: 
+15:01:53,757  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+15:01:53,759  INFO UserClient,main:26 - Please enter your authentication details:-
+15:01:53,760  INFO UserClient,main:27 - Username: 
+16:04:10,430  INFO UserClient,main:29 - Password: 
+16:04:12,704  INFO UserClient,main:39 - Logged in as admin at FRIDAY, 16:4
+16:04:12,706  INFO UserClient,main:32 - 1: View Catalog
+16:04:12,707  INFO UserClient,main:33 - 2: Add a user
+16:04:12,707  INFO UserClient,main:34 - 3: Remove a user
+16:04:12,707  INFO UserClient,main:35 - 4: Add a course in the catalog.
+16:04:12,707  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+16:04:12,708  INFO UserClient,main:37 - 6: View users
+16:04:12,708  INFO UserClient,main:38 - 7: View Details of a specific user
+16:04:12,708  INFO UserClient,main:39 - 8: Logout
+16:04:12,708  INFO UserClient,main:40 - 9: Exit
+16:04:15,928  INFO UserClient,main:76 - Here is the list of users registered with us
+16:04:15,931  INFO UserClient,main:99 - All users shown!
+16:04:15,934  INFO UserClient,main:80 - Id:  1, Name:       Mr.kunal, Role:  student
+16:04:15,934  INFO UserClient,main:80 - Id:  3, Name:      Ms.monica, Role: professor
+16:04:15,935  INFO UserClient,main:80 - Id:  4, Name:        Mr.amit, Role: professor
+16:04:15,935  INFO UserClient,main:80 - Id:  5, Name:   Mr.superuser, Role:    admin
+16:04:15,936  INFO UserClient,main:80 - Id: 14, Name:        Mr.test, Role:  student
+16:04:15,936  INFO UserClient,main:80 - Id: 17, Name:         Mr.ram, Role:  student
+16:04:15,937  INFO UserClient,main:80 - Id: 104, Name:        Mr.Shiv, Role:  student
+16:04:15,937  INFO UserClient,main:80 - Id: 105, Name:        Ms.Ritu, Role: professor
+16:04:15,938  INFO UserClient,main:80 - Id: 106, Name:        Mr.raju, Role:  student
+16:04:15,938  INFO UserClient,main:32 - 1: View Catalog
+16:04:15,938  INFO UserClient,main:33 - 2: Add a user
+16:04:15,938  INFO UserClient,main:34 - 3: Remove a user
+16:04:15,938  INFO UserClient,main:35 - 4: Add a course in the catalog.
+16:04:15,939  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+16:04:15,939  INFO UserClient,main:37 - 6: View users
+16:04:15,939  INFO UserClient,main:38 - 7: View Details of a specific user
+16:04:15,939  INFO UserClient,main:39 - 8: Logout
+16:04:15,939  INFO UserClient,main:40 - 9: Exit
+16:41:40,854  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+16:41:40,856  INFO UserClient,main:26 - Please enter your authentication details:-
+16:41:40,857  INFO UserClient,main:27 - Username: 
+16:42:46,615  INFO UserClient,main:29 - Password: 
+16:42:49,842  INFO UserClient,main:39 - Logged in as admin at FRIDAY, 16:42
+16:42:49,845  INFO UserClient,main:32 - 1: View Catalog
+16:42:49,845  INFO UserClient,main:33 - 2: Add a user
+16:42:49,846  INFO UserClient,main:34 - 3: Remove a user
+16:42:49,846  INFO UserClient,main:35 - 4: Add a course in the catalog.
+16:42:49,846  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+16:42:49,846  INFO UserClient,main:37 - 6: View users
+16:42:49,846  INFO UserClient,main:38 - 7: View Details of a specific user
+16:42:49,847  INFO UserClient,main:39 - 8: Logout
+16:42:49,847  INFO UserClient,main:40 - 9: Exit
+16:42:52,136  INFO UserClient,main:160 - Id: 1; Course:Biology 
+16:42:52,136  INFO UserClient,main:160 - Id: 2; Course:Physics 
+16:42:52,137  INFO UserClient,main:160 - Id: 3; Course:Chemistry
+16:42:52,137  INFO UserClient,main:160 - Id: 4; Course:Physics 
+16:42:52,137  INFO UserClient,main:160 - Id: 5; Course:History 
+16:42:52,138  INFO UserClient,main:160 - Id: 6; Course:Data Structures
+16:42:52,138  INFO UserClient,main:160 - Id: 8; Course:EVS     
+16:42:52,138  INFO UserClient,main:160 - Id: 9; Course:JAVA    
+16:42:52,139  INFO UserClient,main:160 - Id:105; Course:DS      
+16:42:52,139  INFO UserClient,main:32 - 1: View Catalog
+16:42:52,139  INFO UserClient,main:33 - 2: Add a user
+16:42:52,139  INFO UserClient,main:34 - 3: Remove a user
+16:42:52,140  INFO UserClient,main:35 - 4: Add a course in the catalog.
+16:42:52,140  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+16:42:52,140  INFO UserClient,main:37 - 6: View users
+16:42:52,140  INFO UserClient,main:38 - 7: View Details of a specific user
+16:42:52,140  INFO UserClient,main:39 - 8: Logout
+16:42:52,140  INFO UserClient,main:40 - 9: Exit
+16:42:59,542  INFO UserClient,main:119 - Enter name of the user
+16:43:03,180  INFO UserClient,main:121 - Set up a password for the user
+16:43:04,601  INFO UserClient,main:123 - Enter the role of the user
+16:43:07,240  INFO UserClient,main:125 - Enter the gender of the user(m for male, f for female)
+16:43:09,393  INFO UserClient,main:37 - User added!
+16:43:09,394  INFO UserClient,main:130 - Enter the name of the student
+16:43:15,276  INFO UserClient,main:132 - Enter the phone number of the student
+16:43:18,868  INFO UserClient,main:134 - Enter the email of the student
+16:43:24,381  INFO UserClient,main:136 - Is any scholarship applicable?(0 for no, 1 for yes)
+16:43:26,078  INFO UserClient,main:118 - User added!
+16:43:26,079  INFO UserClient,main:32 - 1: View Catalog
+16:43:26,079  INFO UserClient,main:33 - 2: Add a user
+16:43:26,079  INFO UserClient,main:34 - 3: Remove a user
+16:43:26,079  INFO UserClient,main:35 - 4: Add a course in the catalog.
+16:43:26,080  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+16:43:26,080  INFO UserClient,main:37 - 6: View users
+16:43:26,080  INFO UserClient,main:38 - 7: View Details of a specific user
+16:43:26,080  INFO UserClient,main:39 - 8: Logout
+16:43:26,080  INFO UserClient,main:40 - 9: Exit
+16:43:32,314  INFO UserClient,main:76 - Here is the list of users registered with us
+16:43:32,317  INFO UserClient,main:99 - All users shown!
+16:43:32,318  INFO UserClient,main:80 - Id:  1, Name:       Mr.kunal, Role:  student
+16:43:32,319  INFO UserClient,main:80 - Id:  3, Name:      Ms.monica, Role: professor
+16:43:32,319  INFO UserClient,main:80 - Id:  4, Name:        Mr.amit, Role: professor
+16:43:32,319  INFO UserClient,main:80 - Id:  5, Name:   Mr.superuser, Role:    admin
+16:43:32,319  INFO UserClient,main:80 - Id: 14, Name:        Mr.test, Role:  student
+16:43:32,320  INFO UserClient,main:80 - Id: 17, Name:         Mr.ram, Role:  student
+16:43:32,320  INFO UserClient,main:80 - Id: 104, Name:        Mr.Shiv, Role:  student
+16:43:32,320  INFO UserClient,main:80 - Id: 105, Name:        Ms.Ritu, Role: professor
+16:43:32,321  INFO UserClient,main:80 - Id: 106, Name:        Mr.raju, Role:  student
+16:43:32,321  INFO UserClient,main:80 - Id: 107, Name:      Mr.raghav, Role:  student
+16:43:32,321  INFO UserClient,main:32 - 1: View Catalog
+16:43:32,321  INFO UserClient,main:33 - 2: Add a user
+16:43:32,321  INFO UserClient,main:34 - 3: Remove a user
+16:43:32,322  INFO UserClient,main:35 - 4: Add a course in the catalog.
+16:43:32,322  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+16:43:32,322  INFO UserClient,main:37 - 6: View users
+16:43:32,322  INFO UserClient,main:38 - 7: View Details of a specific user
+16:43:32,322  INFO UserClient,main:39 - 8: Logout
+16:43:32,322  INFO UserClient,main:40 - 9: Exit
+16:43:38,273  INFO UserClient,main:103 - Enter id of the user you want to inspect
+16:43:39,997  INFO UserClient,main:154 - Here are the details of the requested student.
+16:43:40,003  INFO Student,main:26 - Name:  Raghv Goyal  Phone:  921083098  Email: asd@test.com  Scholarship: 1
+16:43:40,003  INFO UserClient,main:32 - 1: View Catalog
+16:43:40,003  INFO UserClient,main:33 - 2: Add a user
+16:43:40,003  INFO UserClient,main:34 - 3: Remove a user
+16:43:40,004  INFO UserClient,main:35 - 4: Add a course in the catalog.
+16:43:40,004  INFO UserClient,main:36 - 5: Remove a course from the catalog.
+16:43:40,004  INFO UserClient,main:37 - 6: View users
+16:43:40,004  INFO UserClient,main:38 - 7: View Details of a specific user
+16:43:40,004  INFO UserClient,main:39 - 8: Logout
+16:43:40,004  INFO UserClient,main:40 - 9: Exit
+16:43:50,613  INFO UserClient,main:66 - Logged out at FRIDAY, 16:43
+16:43:50,614  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+16:43:50,614  INFO UserClient,main:26 - Please enter your authentication details:-
+16:43:50,614  INFO UserClient,main:27 - Username: 
+16:43:53,581  INFO UserClient,main:29 - Password: 
+16:43:55,248  INFO UserClient,main:45 - Logged in as student at FRIDAY, 16:43
+16:43:55,252  INFO StudentClient,main:41 - 1: View Catalog
+16:43:55,252  INFO StudentClient,main:42 - 2: Add a Course
+16:43:55,252  INFO StudentClient,main:43 - 3: Drop a Course
+16:43:55,253  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:43:55,253  INFO StudentClient,main:45 - 5: Proceed to payment
+16:43:55,253  INFO StudentClient,main:46 - 6: View Report Card
+16:43:55,253  INFO StudentClient,main:47 - 7: Logout
+16:43:55,253  INFO StudentClient,main:48 - 8: Exit
+16:43:58,185  INFO StudentClient,main:81 - Id: 1; Course:Biology 
+16:43:58,185  INFO StudentClient,main:81 - Id: 2; Course:Physics 
+16:43:58,186  INFO StudentClient,main:81 - Id: 3; Course:Chemistry
+16:43:58,186  INFO StudentClient,main:81 - Id: 4; Course:Physics 
+16:43:58,186  INFO StudentClient,main:81 - Id: 5; Course:History 
+16:43:58,186  INFO StudentClient,main:81 - Id: 6; Course:Data Structures
+16:43:58,186  INFO StudentClient,main:81 - Id: 8; Course:EVS     
+16:43:58,187  INFO StudentClient,main:81 - Id: 9; Course:JAVA    
+16:43:58,187  INFO StudentClient,main:81 - Id:105; Course:DS      
+16:43:58,187  INFO StudentClient,main:41 - 1: View Catalog
+16:43:58,187  INFO StudentClient,main:42 - 2: Add a Course
+16:43:58,187  INFO StudentClient,main:43 - 3: Drop a Course
+16:43:58,187  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:43:58,187  INFO StudentClient,main:45 - 5: Proceed to payment
+16:43:58,188  INFO StudentClient,main:46 - 6: View Report Card
+16:43:58,188  INFO StudentClient,main:47 - 7: Logout
+16:43:58,188  INFO StudentClient,main:48 - 8: Exit
+16:44:05,724  INFO StudentClient,main:81 - Id: 1; Course:Biology 
+16:44:05,724  INFO StudentClient,main:81 - Id: 2; Course:Physics 
+16:44:05,724  INFO StudentClient,main:81 - Id: 3; Course:Chemistry
+16:44:05,724  INFO StudentClient,main:81 - Id: 4; Course:Physics 
+16:44:05,725  INFO StudentClient,main:81 - Id: 5; Course:History 
+16:44:05,725  INFO StudentClient,main:81 - Id: 6; Course:Data Structures
+16:44:05,725  INFO StudentClient,main:81 - Id: 8; Course:EVS     
+16:44:05,725  INFO StudentClient,main:81 - Id: 9; Course:JAVA    
+16:44:05,725  INFO StudentClient,main:81 - Id:105; Course:DS      
+16:44:05,726  INFO StudentClient,main:41 - 1: View Catalog
+16:44:05,726  INFO StudentClient,main:42 - 2: Add a Course
+16:44:05,726  INFO StudentClient,main:43 - 3: Drop a Course
+16:44:05,726  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:44:05,726  INFO StudentClient,main:45 - 5: Proceed to payment
+16:44:05,726  INFO StudentClient,main:46 - 6: View Report Card
+16:44:05,726  INFO StudentClient,main:47 - 7: Logout
+16:44:05,727  INFO StudentClient,main:48 - 8: Exit
+16:44:10,486  INFO StudentClient,main:87 - Enter the id of the course you want to add.
+16:44:11,725  INFO RegistrationDao,main:54 - Course added!
+16:44:11,725  INFO StudentClient,main:41 - 1: View Catalog
+16:44:11,726  INFO StudentClient,main:42 - 2: Add a Course
+16:44:11,726  INFO StudentClient,main:43 - 3: Drop a Course
+16:44:11,726  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:44:11,726  INFO StudentClient,main:45 - 5: Proceed to payment
+16:44:11,726  INFO StudentClient,main:46 - 6: View Report Card
+16:44:11,726  INFO StudentClient,main:47 - 7: Logout
+16:44:11,726  INFO StudentClient,main:48 - 8: Exit
+16:44:13,664  INFO StudentClient,main:87 - Enter the id of the course you want to add.
+16:44:14,525  INFO RegistrationDao,main:54 - Course added!
+16:44:14,526  INFO StudentClient,main:41 - 1: View Catalog
+16:44:14,526  INFO StudentClient,main:42 - 2: Add a Course
+16:44:14,526  INFO StudentClient,main:43 - 3: Drop a Course
+16:44:14,526  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:44:14,526  INFO StudentClient,main:45 - 5: Proceed to payment
+16:44:14,527  INFO StudentClient,main:46 - 6: View Report Card
+16:44:14,527  INFO StudentClient,main:47 - 7: Logout
+16:44:14,527  INFO StudentClient,main:48 - 8: Exit
+16:44:15,191  INFO StudentClient,main:87 - Enter the id of the course you want to add.
+16:44:16,136  INFO RegistrationDao,main:54 - Course added!
+16:44:16,136  INFO StudentClient,main:41 - 1: View Catalog
+16:44:16,136  INFO StudentClient,main:42 - 2: Add a Course
+16:44:16,137  INFO StudentClient,main:43 - 3: Drop a Course
+16:44:16,137  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:44:16,137  INFO StudentClient,main:45 - 5: Proceed to payment
+16:44:16,137  INFO StudentClient,main:46 - 6: View Report Card
+16:44:16,137  INFO StudentClient,main:47 - 7: Logout
+16:44:16,137  INFO StudentClient,main:48 - 8: Exit
+16:44:16,997  INFO StudentClient,main:87 - Enter the id of the course you want to add.
+16:44:18,402  INFO RegistrationDao,main:54 - Course added!
+16:44:18,403  INFO StudentClient,main:41 - 1: View Catalog
+16:44:18,403  INFO StudentClient,main:42 - 2: Add a Course
+16:44:18,403  INFO StudentClient,main:43 - 3: Drop a Course
+16:44:18,403  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:44:18,403  INFO StudentClient,main:45 - 5: Proceed to payment
+16:44:18,403  INFO StudentClient,main:46 - 6: View Report Card
+16:44:18,403  INFO StudentClient,main:47 - 7: Logout
+16:44:18,403  INFO StudentClient,main:48 - 8: Exit
+16:44:22,035  INFO StudentClient,main:119 - Id: 1   Name: Biology          Registration Status:    pending   DateOfAddition: 2020-06-19 16:44:11.0  Mode: Not paid
+16:44:22,038  INFO StudentClient,main:119 - Id: 2   Name: Physics          Registration Status:    pending   DateOfAddition: 2020-06-19 16:44:14.0  Mode: Not paid
+16:44:22,039  INFO StudentClient,main:119 - Id: 3   Name: Chemistry        Registration Status:    pending   DateOfAddition: 2020-06-19 16:44:16.0  Mode: Not paid
+16:44:22,042  INFO StudentClient,main:119 - Id: 4   Name: Physics          Registration Status:    pending   DateOfAddition: 2020-06-19 16:44:18.0  Mode: Not paid
+16:44:22,042  INFO StudentClient,main:41 - 1: View Catalog
+16:44:22,042  INFO StudentClient,main:42 - 2: Add a Course
+16:44:22,042  INFO StudentClient,main:43 - 3: Drop a Course
+16:44:22,043  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:44:22,043  INFO StudentClient,main:45 - 5: Proceed to payment
+16:44:22,043  INFO StudentClient,main:46 - 6: View Report Card
+16:44:22,043  INFO StudentClient,main:47 - 7: Logout
+16:44:22,043  INFO StudentClient,main:48 - 8: Exit
+16:44:27,562  INFO StudentClient,main:87 - Enter the id of the course you want to add.
+16:44:29,485 ERROR CourseException,main:14 - You need to take up 4 courses for the semester. Try altering your registered courses list.
+16:44:29,486  INFO StudentClient,main:41 - 1: View Catalog
+16:44:29,486  INFO StudentClient,main:42 - 2: Add a Course
+16:44:29,486  INFO StudentClient,main:43 - 3: Drop a Course
+16:44:29,486  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:44:29,487  INFO StudentClient,main:45 - 5: Proceed to payment
+16:44:29,487  INFO StudentClient,main:46 - 6: View Report Card
+16:44:29,487  INFO StudentClient,main:47 - 7: Logout
+16:44:29,487  INFO StudentClient,main:48 - 8: Exit
+16:44:38,321  INFO StudentClient,main:139 - Total payment to be made: 280
+16:44:38,321  INFO StudentClient,main:140 -   Id : Mode of payment
+16:44:38,322  INFO RegistrationDao,main:195 - 1 : debit card
+16:44:38,322  INFO RegistrationDao,main:195 - 2 : credit card
+16:44:38,322  INFO RegistrationDao,main:195 - 3 : cash
+16:44:38,322  INFO StudentClient,main:142 - Enter the mode id
+16:44:42,942  INFO StudentClient,main:41 - 1: View Catalog
+16:44:42,943  INFO StudentClient,main:42 - 2: Add a Course
+16:44:42,943  INFO StudentClient,main:43 - 3: Drop a Course
+16:44:42,943  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:44:42,943  INFO StudentClient,main:45 - 5: Proceed to payment
+16:44:42,943  INFO StudentClient,main:46 - 6: View Report Card
+16:44:42,943  INFO StudentClient,main:47 - 7: Logout
+16:44:42,943  INFO StudentClient,main:48 - 8: Exit
+16:44:45,493  INFO StudentClient,main:119 - Id: 1   Name: Biology          Registration Status: successful   DateOfAddition: 2020-06-19 16:44:11.0  Mode: debit card
+16:44:45,494  INFO StudentClient,main:119 - Id: 2   Name: Physics          Registration Status: successful   DateOfAddition: 2020-06-19 16:44:14.0  Mode: debit card
+16:44:45,496  INFO StudentClient,main:119 - Id: 3   Name: Chemistry        Registration Status: successful   DateOfAddition: 2020-06-19 16:44:16.0  Mode: debit card
+16:44:45,498  INFO StudentClient,main:119 - Id: 4   Name: Physics          Registration Status: successful   DateOfAddition: 2020-06-19 16:44:18.0  Mode: debit card
+16:44:45,499  INFO StudentClient,main:41 - 1: View Catalog
+16:44:45,499  INFO StudentClient,main:42 - 2: Add a Course
+16:44:45,499  INFO StudentClient,main:43 - 3: Drop a Course
+16:44:45,499  INFO StudentClient,main:44 - 4: View courses added for Registration
+16:44:45,499  INFO StudentClient,main:45 - 5: Proceed to payment
+16:44:45,499  INFO StudentClient,main:46 - 6: View Report Card
+16:44:45,499  INFO StudentClient,main:47 - 7: Logout
+16:44:45,500  INFO StudentClient,main:48 - 8: Exit
+16:44:56,208  INFO StudentClient,main:70 - Logged out at FRIDAY, 16:44
+16:44:56,209  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+16:44:56,209  INFO UserClient,main:26 - Please enter your authentication details:-
+16:44:56,209  INFO UserClient,main:27 - Username: 
+16:44:59,899  INFO UserClient,main:29 - Password: 
+16:45:01,629  INFO UserClient,main:42 - Logged in as professor at FRIDAY, 16:45
+16:45:01,634  INFO UserClient,main:32 - 1: View Catalog
+16:45:01,634  INFO UserClient,main:33 - 2: View enrolled Courses
+16:45:01,635  INFO UserClient,main:34 - 3: Enroll to teach for a Course
+16:45:01,635  INFO UserClient,main:35 - 4: View list of enrolled students
+16:45:01,635  INFO UserClient,main:36 - 5: Submit grades of students
+16:45:01,635  INFO UserClient,main:37 - 6: Logout
+16:45:01,636  INFO UserClient,main:38 - 7: Exit
+16:45:04,436  INFO UserClient,main:85 - Here are the courses that you are enrolled in
+16:45:04,439  INFO UserClient,main:86 - 1:  Biology 
+16:45:04,441  INFO UserClient,main:86 - 4:  Physics 
+16:45:04,443  INFO UserClient,main:86 - 6: Data Structures 
+16:45:04,444  INFO UserClient,main:32 - 1: View Catalog
+16:45:04,444  INFO UserClient,main:33 - 2: View enrolled Courses
+16:45:04,444  INFO UserClient,main:34 - 3: Enroll to teach for a Course
+16:45:04,444  INFO UserClient,main:35 - 4: View list of enrolled students
+16:45:04,444  INFO UserClient,main:36 - 5: Submit grades of students
+16:45:04,444  INFO UserClient,main:37 - 6: Logout
+16:45:04,445  INFO UserClient,main:38 - 7: Exit
+16:45:08,279  INFO UserClient,main:95 - Here is a list of students enrolled along with your course offerings
+16:45:08,280  INFO UserClient,main:97 - --------------1 : Biology--------------
+16:45:08,281  INFO AdminDao,main:68 - 1 : Kunal Sachdeva
+16:45:08,282  INFO AdminDao,main:68 - 106 : Raju
+16:45:08,282  INFO AdminDao,main:68 - 107 : Raghv Goyal
+16:45:08,283  INFO UserClient,main:97 - --------------4 : Physics--------------
+16:45:08,284  INFO AdminDao,main:68 - 1 : Kunal Sachdeva
+16:45:08,284  INFO AdminDao,main:68 - 17 : Ram Sharma
+16:45:08,284  INFO AdminDao,main:68 - 106 : Raju
+16:45:08,284  INFO AdminDao,main:68 - 107 : Raghv Goyal
+16:45:08,285  INFO UserClient,main:97 - --------------6 : Data Structures--------------
+16:45:08,287  INFO AdminDao,main:68 - 17 : Ram Sharma
+16:45:08,287  INFO UserClient,main:32 - 1: View Catalog
+16:45:08,287  INFO UserClient,main:33 - 2: View enrolled Courses
+16:45:08,288  INFO UserClient,main:34 - 3: Enroll to teach for a Course
+16:45:08,288  INFO UserClient,main:35 - 4: View list of enrolled students
+16:45:08,288  INFO UserClient,main:36 - 5: Submit grades of students
+16:45:08,288  INFO UserClient,main:37 - 6: Logout
+16:45:08,288  INFO UserClient,main:38 - 7: Exit
+16:45:17,147  INFO UserClient,main:95 - Here is a list of students enrolled along with your course offerings
+16:45:17,149  INFO UserClient,main:97 - --------------1 : Biology--------------
+16:45:17,150  INFO AdminDao,main:68 - 1 : Kunal Sachdeva
+16:45:17,151  INFO AdminDao,main:68 - 106 : Raju
+16:45:17,151  INFO AdminDao,main:68 - 107 : Raghv Goyal
+16:45:17,152  INFO UserClient,main:97 - --------------4 : Physics--------------
+16:45:17,155  INFO AdminDao,main:68 - 1 : Kunal Sachdeva
+16:45:17,155  INFO AdminDao,main:68 - 17 : Ram Sharma
+16:45:17,155  INFO AdminDao,main:68 - 106 : Raju
+16:45:17,156  INFO AdminDao,main:68 - 107 : Raghv Goyal
+16:45:17,159  INFO UserClient,main:97 - --------------6 : Data Structures--------------
+16:45:17,160  INFO AdminDao,main:68 - 17 : Ram Sharma
+16:45:17,161  INFO ICatalogOperations,main:31 - Enter the course id
+16:45:26,195  INFO ICatalogOperations,main:40 - Enter the student id
+16:45:28,488  INFO ICatalogOperations,main:45 - Enter the grade 
+16:45:30,260  INFO ICatalogOperations,main:49 - Result Updated
+16:45:30,260  INFO UserClient,main:32 - 1: View Catalog
+16:45:30,260  INFO UserClient,main:33 - 2: View enrolled Courses
+16:45:30,260  INFO UserClient,main:34 - 3: Enroll to teach for a Course
+16:45:30,260  INFO UserClient,main:35 - 4: View list of enrolled students
+16:45:30,260  INFO UserClient,main:36 - 5: Submit grades of students
+16:45:30,260  INFO UserClient,main:37 - 6: Logout
+16:45:30,261  INFO UserClient,main:38 - 7: Exit
+16:45:37,351  INFO UserClient,main:57 - Logged out at FRIDAY, 16:45
+16:45:37,351  INFO UserClient,main:25 - Welcome to SMS(Student Management System)
+16:45:37,351  INFO UserClient,main:26 - Please enter your authentication details:-
+16:45:37,351  INFO UserClient,main:27 - Username: 
