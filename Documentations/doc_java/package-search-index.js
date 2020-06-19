@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.flipkart.client"},{"l":"com.flipkart.constants"},{"l":"com.flipkart.dao"},{"l":"com.flipkart.exception"},{"l":"com.flipkart.model"},{"l":"com.flipkart.service"},{"l":"com.flipkart.utils"}]

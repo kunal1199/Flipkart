@@ -1,0 +1,7 @@
+com.flipkart.bean
+com.flipkart.constants
+com.flipkart.dao
+com.flipkart.dropwizard
+com.flipkart.restClient
+com.flipkart.service
+com.flipkart.utils
